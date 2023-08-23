@@ -1,7 +1,7 @@
 ## About Me
 I am Esther Ejidike, Frontend Engineer, Nigerian 🇳🇬 - born & raised. I speak English, just enough Igbo to make you think I'm really good at it, and I am interested in learning a new language but not motivated enough. &#128517;
 
-I currently work as a software engineer @ [Norebase](https://norebase.com) &#128171; where we help companies and individuals alike scale across Africa. If you are ever interested in starting a company anywhere in the world, we can help you! You can call here [+1 360-295-2698](tel:+13602952698) or here [+234-80-3977-7385](tel:2348039777385) or here [hello@norebase.com](mailto:hello@norebase.com)
+I currently work as a software engineer @ [Norebase](https://norebase.com) &#128171; where we help companies and individuals alike scale across Africa. If you are ever interested in starting a company anywhere in the world, we can help you! You can call here [+1 360-295-2698](tel:+13602952698) or here [+234-80-3977-7385](tel:2348039777385) or email at [hello@norebase.com](mailto:hello@norebase.com)
 
 At Norebase, I work on a myriad of internal & external web applications, add new features to products, build brand new products, write tests, maintain codebases, monitor applications using Sentry/Azure App insights, fix & assign bugs and so much more.
 
