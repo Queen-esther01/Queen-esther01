@@ -14,6 +14,7 @@ Honestly, anything that catches my fancy or is required for work. Right now, the
 - Unity (catches my fancy) &#127770;
 - Blender (catches my fancy) &#127770;
 - Vue (catches my fancy/for work) &#127770;
+- C# (for work) &#127770;
 
 ## Some of my technical skills:
 - React
