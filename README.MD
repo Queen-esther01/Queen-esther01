@@ -11,10 +11,9 @@ If you read all that, please connect &#129303; ---> [Linkedin](https://www.linke
 
 ## What am I learning these days?
 Honestly, anything that catches my fancy or is required for work. Right now, they are: 
-- Unity (catches my fancy) &#127770;
-- Blender (catches my fancy) &#127770;
-- Vue (catches my fancy/for work) &#127770;
-- C# (for work) &#127770;
+
+- Blender &#127770;
+- Threejs &#127770;
 
 ## Some of my technical skills:
 - React
