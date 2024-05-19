@@ -1,9 +1,9 @@
 ## About Me
-Hello &#128075;Esther here. Frontend Engineer, Nigerian 🇳🇬 - born & raised.
+Hello &#128075;Esther here. Frontend Engineer.
 
-software engineer @ [Norebase](https://norebase.com) &#128171; building cool tech, Observability with Sentry/Azure App insights & driving service evaluation.
+Software Engineer @ [Norebase](https://norebase.com) &#128171; building cool tech, Observability with Sentry/Azure App insights.
 
-I enjoy working on anything visually engaging/appealing, working in unknown technical domains & discovering new things.
+I enjoy working on visually engaging/appealing & unknown technical domains. Currently tinkering with AI/ML.
 
 If you read all that, please connect &#129303; ---> [Linkedin](https://www.linkedin.com/in/esther-ejidike-0a017a185/), [Twitter](https://twitter.com/lady_catheryn)
 
