@@ -1,9 +1,9 @@
 ## About Me
-Hello &#128075;Esther here. Frontend Engineer.
+Hello &#128075;Esther here.
 
-Software Engineer @ [Norebase](https://norebase.com) &#128171; building cool tech, Observability with Sentry/Azure App insights.
+Frontend Engineer @ [DeSci](https://desci.com) &#128171; making science accessible to everyone.
 
-I enjoy working on visually engaging/appealing & unknown technical domains. Currently tinkering with AI/ML.
+I enjoy working on visually engaging/appealing & unknown technical domains. Building my AI/ML experience.
 
 If you read all that, please connect &#129303; ---> [Linkedin](https://www.linkedin.com/in/esther-ejidike-0a017a185/), [Twitter](https://twitter.com/lady_catheryn)
 
