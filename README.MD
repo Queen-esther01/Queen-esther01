@@ -1,11 +1,9 @@
 ## About Me
 Hello &#128075;Esther here.
 
-Frontend Engineer @ [DeSci](https://desci.com) &#128171; making science accessible to everyone.
+I am a frontend software engineer, currently building my AI/ML experience.
 
-I enjoy working on visually engaging/appealing & unknown technical domains. Building my AI/ML experience.
-
-If you read all that, please connect &#129303; ---> [Linkedin](https://www.linkedin.com/in/esther-ejidike-0a017a185/), [Twitter](https://twitter.com/lady_catheryn)
+Please connect &#129303; ---> [Linkedin](https://www.linkedin.com/in/esther-ejidike-0a017a185/), [Twitter](https://twitter.com/lady_catheryn)
 
 ## Some of my technical skills:
 - React
